@@ -1,0 +1,14 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'ja'
+languageName = 'Japanese'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+title = 'Playground for Hugo'
+theme = 'ananke'
+
+[params]
+  text_color = 'dark-gray'
+  background_color_class = 'bg-navy'
+  author = 'Tsunacan'
+  favicon = '/images/profile.png'
+  site_logo = '/images/profile.png'
