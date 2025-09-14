@@ -9,6 +9,4 @@ tags = ['introduction']
 
 Hello, I'm Tsunacan.
 
-I'm software engineer.  
-I like Golang!
-
+I'm a software engineer.

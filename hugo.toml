@@ -4,7 +4,7 @@ languageName = 'Japanese'
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 title = 'Playground for Hugo'
-theme = 'ananke'
+theme = 'PaperMod'
 
 [params]
   text_color = 'dark-gray'
@@ -12,3 +12,4 @@ theme = 'ananke'
   author = 'Tsunacan'
   favicon = '/images/profile.png'
   site_logo = '/images/profile.png'
+  disableSpecial1stPost = true

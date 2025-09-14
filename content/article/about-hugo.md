@@ -1,5 +1,5 @@
 +++
-date = '2025-09-14T18:24:01+09:00'
+date = '2025-09-14T21:24:01+09:00'
 title = 'About Hugo'
 categories = ['tech']
 tags = ['hugo', 'SSG', 'Golang']
